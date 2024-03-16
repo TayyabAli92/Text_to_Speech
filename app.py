@@ -308,8 +308,6 @@ footer_html = f"""
 # Combine CSS and HTML for the footer
 st.markdown(footer_css, unsafe_allow_html=True)
 st.markdown(footer_html, unsafe_allow_html=True)
-"""
-
 # Combine CSS and HTML for the footer
 st.markdown(footer_css, unsafe_allow_html=True)
 st.markdown(footer_html, unsafe_allow_html=True)
